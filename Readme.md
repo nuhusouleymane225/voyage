@@ -1,6 +1,6 @@
-#PROJET SITE DE VOYAGE
+# PROJET SITE DE VOYAGE
 
-##Tableau des différentes class et leurs champs possibles
+## Tableau des différentes class et leurs champs possibles
 
 
 |Visitor|Country|City|Category|
